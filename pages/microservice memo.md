@@ -1,7 +1,14 @@
+-
+-
 - DevOps：實作上通常使用Docker、K8S
 - VM：是將硬體做image
 - Docker：是將軟體做image
 - [深入淺出微服務](https://iter01.com/462716.html)
 - [微服務-三大IT應用架構](https://www.ithome.com.tw/news/95752)
 - [微服務架構是甚麼](https://www.sysage.com.tw/news/technology/209)
+- [.NET 微服務：容器化 .NET 應用程式的架構](https://docs.microsoft.com/zh-tw/dotnet/architecture/microservices/)
+-
+- 1.UseCase (UserStoryMapping)
+- 2.EventStorming 領域邊界切分
+-
 -
