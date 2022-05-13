@@ -1,3 +1,15 @@
+- Docker
+- Kubernetes
+- DevOps
+- [Design Patterns - SOLID](https://skyyen999.gitbooks.io/-study-design-pattern-in-java/content/oodPrinciple.html)
+	- S: Single responsibility principle(SRP) 單一職責
+	- O: Open/close principle(OCP) 開放/封閉原則
+	- L: Liskov substitution principle(LSP) Liskov替換
+	- I: Interface Segregation Principle(ISP) 介面隔離
+	- D: Dependency Inversion Principle(DIP) 依賴反轉
+	- [我該學會SOLID嗎?](https://medium.com/@f40507777/%E6%88%91%E8%A9%B2%E5%AD%B8%E6%9C%83solid%E5%97%8E-4e73887c9156)
+	- [物件導向設計原則—SOLID](https://ithelp.ithome.com.tw/articles/10191553)
+	- [模組化方式理解SOLID](https://progressbar.tw/posts/249)
 -
 -
 - DevOps：實作上通常使用Docker、K8S
@@ -7,8 +19,11 @@
 - [微服務-三大IT應用架構](https://www.ithome.com.tw/news/95752)
 - [微服務架構是甚麼](https://www.sysage.com.tw/news/technology/209)
 - [.NET 微服務：容器化 .NET 應用程式的架構](https://docs.microsoft.com/zh-tw/dotnet/architecture/microservices/)
+- ---------------------------------------------------------------------------------------------------------
 -
 - 1.UseCase (UserStoryMapping)
 - 2.EventStorming 領域邊界切分
 -
--
+- Data Fabric資料架構/結構/構造
+- 容器管理使用Azure Service Fabric
+- ![2022_05_12_image.png](https://cdn.logseq.com/%2F48409fe6-c99d-46d0-8aa8-d4817fd75dd9ccf29e50-2c32-4cad-b225-3b9ca83a40e02022_05_12_image.png?Expires=4805947185&Signature=USOITQCnxS0CuAGqDB1BEqdhn-sykIuP7Ik5bw6gBtN9O5QoJZCXglfJ-EPASQdADVzhdkR1J2~rdc~AuYXiIrY9dkMUIhp1G40u3tt0uNrkxY27i9sqpw9XN9cWyM64I54GQ5zbsSl18C4xvn7Ot8X95CSctv2tzz1gFiY790hMZXLeH2LteiTWJd0YGt2bJmKgJyaKjlVL2Vb56EQUOKu-8lWuaNDoV5L~1rSYdvD4fvy-3l9Yv8WrK3jI-toWSdHOKvo71YiH4Ou5moMZ7zfidWlpwyre7hWkqq~WmnzDV78omsp-NKrhlSl-H4GHnlxrC06bTCHiBrvPY4nDuw__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
